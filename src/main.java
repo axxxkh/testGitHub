@@ -3,5 +3,9 @@ public class main {
         System.out.println("dddd");
         System.out.println("whyyy");
         System.out.println("ffff");
+
+    }
+    public static void myClass() {
+
     }
 }
