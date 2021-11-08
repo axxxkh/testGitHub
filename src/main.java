@@ -6,6 +6,6 @@ public class main {
 
     }
     public static void myClass() {
-
+        System.out.println("ddd");
     }
 }
